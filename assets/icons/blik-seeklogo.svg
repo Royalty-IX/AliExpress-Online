@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 306 161" style="enable-background:new 0 0 306 161;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:url(#SVGID_00000168813556633261915800000002446727060402699195_);}
+</style>
+<g id="Warstwa_1" class="st0">
+</g>
+<g id="Warstwa_2">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="153" y1="161" x2="153" y2="-9.094947e-13">
+		<stop  offset="0" style="stop-color:#262626"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st1" d="M280.6,161H25.4C11.4,161,0,149.6,0,135.6V25.4C0,11.4,11.4,0,25.4,0h255.2c14,0,25.4,11.4,25.4,25.4v110.2
+		C306,149.6,294.6,161,280.6,161z"/>
+	<rect x="126" y="24.1" class="st2" width="20.8" height="116.2"/>
+	<rect x="164.5" y="63.3" class="st2" width="20.8" height="77"/>
+	<polygon class="st2" points="278.2,140.3 247.1,99.6 247.1,99.6 275.8,63.3 251.2,63.3 223.8,98.5 223.8,24.1 203,24.1 203,140.3 
+		223.8,140.3 223.8,100.8 251.2,140.3 	"/>
+	<path class="st2" d="M73.1,62.5c-6.7,0-13.1,1.7-18.6,4.7V24.1H33.8v77.8c0,21.7,17.6,39.4,39.4,39.4s39.4-17.6,39.4-39.4
+		S94.9,62.5,73.1,62.5z M73.1,120.5c-10.3,0-18.6-8.3-18.6-18.6s8.3-18.6,18.6-18.6s18.6,8.3,18.6,18.6S83.4,120.5,73.1,120.5z"/>
+	
+		<radialGradient id="SVGID_00000042738017011633933660000012283134432517104000_" cx="78.3333" cy="17.3333" r="60.6528" fx="77.6199" fy="17.1542" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FF0000"/>
+		<stop  offset="0.495" style="stop-color:#E83E49"/>
+		<stop  offset="1" style="stop-color:#FF00FF"/>
+	</radialGradient>
+	<circle style="fill:url(#SVGID_00000042738017011633933660000012283134432517104000_);" cx="93.4" cy="36.8" r="18.5"/>
+</g>
+</svg>
